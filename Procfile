@@ -1,0 +1,1 @@
+web: gunicorn 员工管理.wsgi --log-file -
